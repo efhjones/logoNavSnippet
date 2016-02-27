@@ -1,0 +1,63 @@
+body{}
+
+/*--------------HEADINGS--------------------*/
+h1 {
+    
+    color: #88f6be;
+    margin: 100px;
+    padding: 25px 100px;
+    text-align: center;
+    font-family: 'Garamond', serif;
+    font-size: 10em;
+}
+
+h2 {
+    color: #88f6be;
+    font-family: 'Garamond', serif;
+    text-align: center;
+    padding: 25px 100px;  
+    margin-top: 300px;
+    
+}
+  /*--------------------------------------*/  
+
+
+
+
+
+/*----------------NAV---------------------------->*/
+
+.fixed {
+	position: fixed; 
+	top: 0;
+	height: 70px; 
+	z-index: 1;
+    right: 0;
+   
+}
+
+li{
+    display: inline-block;
+    
+    
+}
+
+nav{
+    float: right;
+}
+
+
+
+nav a{
+    font-family: 'Baskerville', serif;
+    font-size: 2em;
+    padding: .5em;
+}
+
+/*----------------------------------------*/
+
+section{
+    height: 400px;
+}
+
+
